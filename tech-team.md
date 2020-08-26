@@ -65,7 +65,7 @@ Morgan J Lopes
 <img src='./images/geraldine.jpg' alt='Geraldine Galue' width='250'>
 
 ## Geraldine Galue
-**(2016-present)**  
+**(2016-2020)**  
 ### Why New Story?
 I was born and raised in a developing country, therefore I understand the struggles that these families face day to day. When I discovered New Story and learned about how I could use my programming skills for good, I immediately knew that I had to be a part of it.
 
@@ -140,7 +140,7 @@ When I first moved to Atlanta, I worked for [The Iron Yard](https://twitter.com/
 <img src="./images/eddie.jpg" alt='Eddie Dozier' width='250'>
 
 ## Eddie Dozier
-**(2019-present)**  
+**(2019-2020)**  
 ### Why New Story?
 
 New Story had my attention when I learned more about its mission, and definitely the team!
